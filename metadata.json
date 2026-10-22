@@ -1,0 +1,6 @@
+{
+  "name": "Bella Store — صحة، لياقة، وجمال",
+  "description": "منصة متكاملة للتخسيس، التغذية العلاجية، الوجبات الصحية، منتجات العناية بالبشرة والمكملات الغذائية مع متابعة متخصصة من دكتور بيلا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
